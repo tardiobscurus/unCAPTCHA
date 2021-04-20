@@ -12,7 +12,7 @@ As of now, the recognition rate of said ML algorithm is about a 97% recognition 
 
 Though, the ML algorithm can *only* recognize digits and not other characters.
 
-Full Report
+[Final Report](./freport.pdf)
 
 ---
 
