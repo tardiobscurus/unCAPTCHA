@@ -53,9 +53,9 @@ $ cd unCAPTCHA
 Then run `uncaptcha.py` with a generated CAPTCHA, in this case, we will add `fc001.jpg` (must be either jpg or png)
 
 ```sh
-$ python3 uncaptcha.py fc001.jpg
+$ python3 segment.py fc001.jpg
 ```
 
 ---
 
-
+There are a few errors with `uncaptcha.py`, is a bit buggy with matplotlib.
